@@ -3,7 +3,8 @@
 An unofficial PyTorch implementation of CRAFT text detector with better interface and fp16 support
 
 > This is not official implementation. I partially use code from the [original repository](https://github.com/clovaai/CRAFT-pytorch)
-> **Note**:I just fixes and improvements, including an update for the `huggingface_hub` package. from [boomb0om](https://github.com/boomb0om/CRAFT-text-detection.git)
+
+**Note**:I just fixes and improvements, including an update for the `huggingface_hub` package. from [boomb0om](https://github.com/boomb0om/CRAFT-text-detection.git)
 
 Main features of this implementation:
 - User-friendly interface 
@@ -15,11 +16,11 @@ Main features of this implementation:
 
 Recommended:
 ```bash
-pip install git+https://github.com/boomb0om/CRAFT-text-detection/
+pip install git+https://github.com/Phanith-LIM/craft-text-detection.git
 ```
 or
 ```bash
-git clone https://github.com/boomb0om/CRAFT-text-detection
+git clone https://github.com/Phanith-LIM/craft-text-detection.git
 cd CRAFT-text-detection/
 pip install -r requirements.txt
 ```
