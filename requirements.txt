@@ -1,0 +1,7 @@
+torch
+numpy==1.26
+opencv-python
+shapely
+huggingface_hub
+torchvision
+scikit-image
